@@ -20,13 +20,13 @@ This project demonstrates hosting a static website using Amazon EC2 and storing 
 ## 📷 Screenshots
 
 ### Website Output
-![Website](website.png)
+![Website](website.jpeg)
 
 ### EC2 Instance
-![EC2](ec2.png)
+![EC2](ec2.jpeg)
 
 ### S3 Bucket
-![S3](s3.png)
+![S3](s3.jpeg)
 
 ### IAM Role
-![IAM](iam-role.png)
+![IAM](iam-role.jpeg)
